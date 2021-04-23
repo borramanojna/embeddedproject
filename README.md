@@ -1,10 +1,7 @@
 # embeddedproject
 
 
-
 CASE STUDY
-
-
 
 |CppCheck                   |      Build                |     Codacy     |                                       
 |--------                   |-------------------------- |-------         |
