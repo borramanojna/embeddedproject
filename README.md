@@ -1,4 +1,3 @@
-![Screenshot (485)](https://user-images.githubusercontent.com/80617853/116300323-65e30880-a7bc-11eb-9d16-86683f3cd8ee.png)
 LED TURNED ON WHEN THE PASSENGER IS SEATED AS WELL AS THE HEATER IS ON
 ![LEDon](https://user-images.githubusercontent.com/80617853/115923432-db3c9980-a49b-11eb-9fb3-ef82d4dd8baf.png)
 # embeddedproject
