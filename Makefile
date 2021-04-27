@@ -2,8 +2,10 @@ PROJ_NAME =Activity1
 
 BUILD_DIR = Build
 
-# All Source code files
-SRC = main.c
+
+SRC = main.c\
+src/Activity1.c\
+src/Activity2.c
 
 # All header file paths
 INC = -I inc
