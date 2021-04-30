@@ -4,6 +4,8 @@
 ![ADC](https://user-images.githubusercontent.com/80617853/116352295-92297400-a812-11eb-81b7-ea52e9e6fa60.png)
 ## ACTIVITY3:GENERATING PWM WAVEFORM 
 ![acti3](https://user-images.githubusercontent.com/80617853/116681800-11fa3e80-a9cb-11eb-897e-584ba624c596.png)
+## ACTIVITY4:UART
+![uart](https://user-images.githubusercontent.com/80617853/116706518-585f9580-a9eb-11eb-879e-43275b390294.png)
 # embeddedproject
 ### CASE STUDY
 |CppCheck                   |      Build                |     Codacy     |                                       
