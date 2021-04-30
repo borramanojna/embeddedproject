@@ -9,6 +9,7 @@
  * 
  */
 #include<stdint.h>
+#include <avr/io.h>
 #include<Activity2.h>
 void InitADC()
 {
