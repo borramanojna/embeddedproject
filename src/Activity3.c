@@ -17,24 +17,24 @@ void decltimer()
  */
 int pwm(uint16_t temp)
 {
-    int tempe;
+    int tempe=0;
     if(temp <=200)
 
     {
           OCR0A=51;
-          int tempe;
+          tempe=20;
     }
-    else if((temp>210)&&(temp <=500))
+    else if((temp>=210)&&(temp <=500))
     {
         OCR0A=102;
          tempe=25;
     }
-    else if((temp>510)&&(temp <=700))
+    else if((temp>=510)&&(temp <=700))
          {
              OCR0A=178;
               tempe=29;
          }
-         else if((temp>710)&&(temp <=1024))
+         else if((temp>=710)&&(temp <=1024))
          {
              OCR0A=242;
               tempe=33;
