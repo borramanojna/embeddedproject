@@ -18,7 +18,7 @@ void decltimer()
 int pwm(uint16_t temp)
 {
     int tempe;
-    if((temp>=0)&&(temp <=200))
+    if(temp <=200)
 
     {
           OCR0A=51;
