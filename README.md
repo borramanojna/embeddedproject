@@ -2,6 +2,8 @@ ACTIVITY 1:LED TURNED ON WHEN THE PASSENGER IS SEATED AS WELL AS THE HEATER IS O
 ![LEDon](https://user-images.githubusercontent.com/80617853/115923432-db3c9980-a49b-11eb-9fb3-ef82d4dd8baf.png)
 ACTIVITY 2:ADJUSTING TEMPERATURE USING TEMPERATURE SENSOR
 ![ADC](https://user-images.githubusercontent.com/80617853/116352295-92297400-a812-11eb-81b7-ea52e9e6fa60.png)
+ACTIVITY3:GENERATING PWM WAVEFORM 
+![acti3](https://user-images.githubusercontent.com/80617853/116681800-11fa3e80-a9cb-11eb-897e-584ba624c596.png)
 # embeddedproject
 CASE STUDY
 |CppCheck                   |      Build                |     Codacy     |                                       
