@@ -9,6 +9,7 @@
  * 
  */
 #include <Activity1.h>
+#include <avr/io.h>
 void declareports()
 {/**
  * @brief Configuring ports as inputs and outputs
