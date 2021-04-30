@@ -1,6 +1,6 @@
 /**
  * @file Activity2.c
- * @author your name (you@domain.com)
+ * @author Manojna (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2021-04-30
